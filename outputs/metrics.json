@@ -1,0 +1,14 @@
+{
+  "sample_count": 10000,
+  "correct_count": 9237,
+  "incorrect_count": 763,
+  "accuracy": 0.9236999750137329,
+  "average_confidence": 0.9379231333732605,
+  "average_entropy": 0.16443219780921936,
+  "average_cross_entropy": 0.21509966254234314,
+  "correct_average_entropy": 0.1216154396533966,
+  "incorrect_average_entropy": 0.6827789545059204,
+  "correct_average_cross_entropy": 0.05068683251738548,
+  "incorrect_average_cross_entropy": 2.205507278442383,
+  "maximum_possible_entropy": 2.302585092994046
+}

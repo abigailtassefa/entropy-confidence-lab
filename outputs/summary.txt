@@ -1,0 +1,18 @@
+Entropy Confidence Lab Summary
+================================
+Samples analyzed: 10000
+Accuracy: 0.9237
+Average confidence: 0.9379
+Average entropy: 0.1644
+Average cross-entropy: 0.2151
+
+Correct vs incorrect predictions
+--------------------------------
+Correct count: 9237
+Incorrect count: 763
+Correct average entropy: 0.1216
+Incorrect average entropy: 0.6828
+Correct average cross-entropy: 0.0507
+Incorrect average cross-entropy: 2.2055
+
+Reference: maximum entropy for 10 equally likely classes is log(10) = 2.3026 nats.
